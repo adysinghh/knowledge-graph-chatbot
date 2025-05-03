@@ -1,0 +1,11 @@
+name,rate,skills,portfolio
+Alice Johnson,25,Python;Machine Learning;FastAPI,https://portfolio.com/alice_j
+Bob Smith,30,React;Node.js;GraphQL,https://portfolio.com/bob_s
+Carol Lee,28,Data Science;Pandas;Visualization,https://portfolio.com/carol_l
+David Kim,35,Java;Spring Boot;Microservices,https://portfolio.com/david_k
+Eve Martinez,22,NLP;Transformers;Hugging Face,https://portfolio.com/eve_m
+Frank Zhao,40,DevOps;Docker;Kubernetes,https://portfolio.com/frank_z
+Grace Nguyen,27,Frontend;React;Tailwind CSS,https://portfolio.com/grace_n
+Hector Silva,33,Mobile;React Native;Expo,https://portfolio.com/hector_s
+Ivy Patel,29,Computer Vision;PyTorch;OpenCV,https://portfolio.com/ivy_p
+Jack Li,31,AI Ethics;Policy;Research,https://portfolio.com/jack_l
