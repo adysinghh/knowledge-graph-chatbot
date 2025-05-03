@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* NavBar gradient */
+.nav-gradient {
+  @apply bg-gradient-to-r from-upwork-500 via-upwork-600 to-upwork-500;
+  background-size: 200%;
+  animation: gradient-xy;
+}
